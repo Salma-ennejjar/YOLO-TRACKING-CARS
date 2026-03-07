@@ -1,4 +1,4 @@
-\# YOLO Vehicle Tracking and Counting
+\# YOLO Vehicle Tracking and Counting : 
 
 
 
@@ -20,5 +20,4 @@ pip install -r requirements.txt
 
 python main.py
 
-\- La vidéo annotée sera générée en sortie.
 
